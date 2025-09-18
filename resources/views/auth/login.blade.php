@@ -142,7 +142,6 @@
     </style>
 </head>
 <body>
-    <div class="container">
         <div class="login-container">
             <!-- Store Logo/Branding -->
             <div class="store-logo">
@@ -237,7 +236,6 @@
             </form>
 
         </div>
-    </div>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
     <script>
@@ -310,3 +308,4 @@
     </script>
 </body>
 </html>
+
